@@ -1,2 +1,3 @@
 # Data-analysis-project
-Data cleaning with analysis
+Data cleaning with analysis of COVID dataset
+
